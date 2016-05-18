@@ -17,9 +17,9 @@
   } ],
   "keywords" : [ "wechat", "weixin", "thinkphp", "sample" ],
   "support" : {
-    "issues" : "https://github.com/dodgepudding/wechat-php-sdk/issues",
-    "wiki" : "https://github.com/dodgepudding/wechat-php-sdk/wiki",
-    "source" : "https://github.com/dodgepudding/wechat-php-sdk"
+    "issues" : "https://github.com/chiangtor/wechat-php-sdk/issues",
+    "wiki" : "https://github.com/chiangtor/wechat-php-sdk/wiki",
+    "source" : "https://github.com/chiangtor/wechat-php-sdk"
   },
   "autoload" : {
     "psr-4" : {
