@@ -24,7 +24,7 @@
   "autoload" : {
     "psr-4" : {
 	"dodgepudding\\wechat\\sdk\\" : "src/",
-	"dodgepudding\\wechat\\qy\\sdk\\" : "src/qy/",
+	"dodgepudding\\wechat\\qy\\sdk\\" : "src/qy/"
     }
   },
   "type" : "library",
