@@ -1,5 +1,5 @@
 {
-  "name" : "chiangtor/wechat-php-sdk",
+  "name" : "jita032/wechat-php-sdk",
   "description" : "the wechat api library without framework dependency",
   "version" : "1.1",
   "require" : {
